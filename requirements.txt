@@ -1,1 +1,5 @@
+# Nenhuma dependência externa necessária, já que sqlite3 é embutido no Python.
+# Caso algum pacote adicional seja usado no futuro, ele pode ser adicionado aqui.
+
+pytest==7.0.1
 
