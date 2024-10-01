@@ -1,0 +1,10 @@
+biblioteca-sqlite/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── db/
+│   └── biblioteca.db         # O arquivo do banco de dados SQLite será armazenado aqui
+├── src/
+│   └── main.py               # O código Python principal
+└── requirements.txt          # Dependências do projeto
